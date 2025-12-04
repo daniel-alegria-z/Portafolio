@@ -5,7 +5,7 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 ---
 
 - **Proyecto Angular Centro de Salud**: [Ver repositorio](https://github.com/daniel-alegria-z/ProyectoAngular-Centro-de-Salud)
-  - Este proyecto es una aplicación web desarrollada con Angular que permite gestionar diferentes aspectos de un centro de salud. Incluye funcionalidades para registro y administración de pacientes, citas médicas, personal de salud y especialidades. Utiliza componentes modulares, servicios para acceso a datos, y está pensado para facilitar la administración eficiente de un consultorio o centro médico. La interfaz es intuitiva y responsiva, garantizando una experiencia de usuario óptima.
+  - Este proyecto es una aplicación web desarrollada con Angular que permite gestionar diferentes aspectos de un centro de salud: registro y administración de pacientes, citas médicas, personal de salud y especialidades. La aplicación comunica con un backend desarrollado en Flask mediante una API REST, lo que permite la manipulación de datos de manera eficiente, segura y robusta. Utiliza componentes modulares, servicios para acceso a datos y está pensado para facilitar la administración eficiente de un consultorio o centro médico. La interfaz es intuitiva y responsiva, garantizando una experiencia de usuario óptima.
 
 ---
 
