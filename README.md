@@ -4,44 +4,47 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **Proyecto Angular Centro de Salud**: [Ver repositorio](https://github.com/daniel-alegria-z/ProyectoAngular-Centro-de-Salud)
-  - Este proyecto es una aplicación web desarrollada con Angular que permite gestionar diferentes aspectos de un centro de salud: registro y administración de pacientes, citas médicas, personal de salud y especialidades. La aplicación comunica con un backend desarrollado en Flask mediante una API REST, lo que permite la manipulación de datos de manera eficiente, segura y robusta. Utiliza componentes modulares, servicios para acceso a datos y está pensado para facilitar la administración eficiente de un consultorio o centro médico. La interfaz es intuitiva y responsiva, garantizando una experiencia de usuario óptima.
+---
+
+- **Proyecto Angular Centro de Salud (Angular + Flask)**: [Ver repositorio](https://github.com/daniel-alegria-z/ProyectoAngular-Centro-de-Salud)
+  - Aplicación web para gestión de pacientes, citas y personal de salud; frontend en Angular y backend en Flask expuesto vía API REST.
 
 ---
 
-- **Desarrollo Web de Servicios Aduaneros con framework Django**: [Ver repositorio](https://github.com/alegria666/DesarrolloWeb-Django)
-  - Este es un sistema desarrollado en Django para la gestión de procesos aduaneros. Incluye funcionalidades de CRUD (Crear, Leer, Actualizar, Eliminar) distribuidas en seis apartados principales, integrando la gestión moderna de procesos y roles.
+- **Desarrollo Web de Servicios Aduaneros (Django + PostgreSQL)**: [Ver repositorio](https://github.com/daniel-alegria-z/DesarrolloWeb-Django)
+  - Sistema en Django para la gestión de procesos aduaneros con CRUD organizado en seis apartados principales y control de acceso por roles.
 
 ---
 
-- **Análisis de Calidad de Vinos con Árboles de Decisión**: [Ver repositorio](https://github.com/daniel-alegria-z/Calidad-de-Vinos)
-  - Este proyecto aplica técnicas de minería de datos para analizar y predecir la calidad del vino en base a sus características químicas. Utilizando modelos de Árbol de Decisión, se entrena el sistema con registros reales para descubrir patrones y realizar predicciones.
+- **Proyecto Aquasoluciones (PHP + MySQL/MariaDB + Docker)**: [Ver repositorio](https://github.com/daniel-alegria-z/Proyecto-Aquasoluciones)
+  - Plataforma web para servicios de agua: páginas informativas, autenticación y registro de usuarios (administradores y supervisores), integración con base de datos y despliegue con Docker.
 
 ---
 
-- **Proyecto Página Web con integración de Base de Datos y PHP**: [Ver repositorio](https://github.com/alegria666/AquaSoluciones-PaginaWeb-BD)
-  - Aquasoluciones es una plataforma para gestionar servicios relacionados con la distribución y administración del servicio de agua. La página incluye funcionalidades de presentación de la empresa, contacto, y gestión básica de clientes, con integración de base de datos y desarrollo en PHP.
+- **Análisis de Calidad de Vinos (Python + Árboles de Decisión)**: [Ver repositorio](https://github.com/daniel-alegria-z/Calidad-de-Vinos)
+  - Minería de datos y modelos de decisión para predecir la calidad del vino a partir de sus características químicas.
 
 ---
 
-- **Proyecto Facturación de Supermercado**: [Ver repositorio](https://github.com/alegria666/FacturacionSupermercado-PHP)
-  - Este proyecto es una aplicación desarrollada en PHP que permite gestionar y calcular la facturación en un supermercado.
+- **Facturación de Supermercado (PHP)**: [Ver repositorio](https://github.com/alegria666/FacturacionSupermercado-PHP)
+  - Aplicación PHP para gestionar la facturación y cálculo de ventas en un supermercado.
 
 ---
 
-- **Proyecto Inmobiliaria**: [Ver repositorio](https://github.com/alegria666/Inmobiliaria-Arboles)
-  - Este proyecto es una aplicación gráfica desarrollada en Python que permite gestionar los datos de una inmobiliaria. Utiliza estructuras de datos avanzadas como Árboles Binarios de Búsqueda y Árboles Balanceados para organizar la información y proporcionar búsquedas ágiles.
+- **Gestión Inmobiliaria (Python + Estructuras de Datos)**: [Ver repositorio](https://github.com/alegria666/Inmobiliaria-Arboles)
+  - Aplicación gráfica en Python que organiza propiedades usando Árboles Binarios de Búsqueda y árboles balanceados para búsquedas ágiles.
 
 ---
 
-- **Proyecto Lavautos**: [Ver repositorio](https://github.com/alegria666/Lavautos-Colas)
-  - Este proyecto es una aplicación gráfica desarrollada en Python que permite gestionar los datos de un lavautos. Los vehículos se organizan y se "encolan" según su tipo, utilizando la estructura de datos de colas para modelar la atención en orden de llegada.
+- **Gestión de Lavautos (Python + Colas)**: [Ver repositorio](https://github.com/alegria666/Lavautos-Colas)
+  - Aplicación gráfica que modela la atención por orden de llegada mediante estructuras de colas, organizando vehículos según su tipo.
 
 ---
 
-- **Proyecto Compresor de Texto**: [Ver repositorio](https://github.com/alegria666/CompresorTxt)
-  - Este proyecto es una herramienta con interfaz gráfica realizado en Python para la compresión y descompresión de texto mediante un mapa de palabras almacenado en un archivo JSON.
+- **Compresor de Texto (Python + JSON)**: [Ver repositorio](https://github.com/alegria666/CompresorTxt)
+  - Herramienta con interfaz gráfica para compresión/descompresión de texto usando un mapa de palabras persistido en JSON.
 
 ---
+
 
 ¡Gracias por visitarlo! :)
