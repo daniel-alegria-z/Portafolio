@@ -4,6 +4,9 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
+- **Carrito Avengers (Angular + Flask)**: [Ver repositorio](https://github.com/daniel-alegria-z/Carrito-de-compras-Angular-Flask)
+  - Aplicación full-stack de carrito de compras con frontend en Angular y backend en Flask (API REST), persistencia en SQLite, validación server-side de stock y totales (subtotal, IVA y total) y **simulación de una pasarela de pagos** (pagos aprobados/rechazados) para emular un flujo de pago real.
+
 ---
 
 - **Proyecto Angular Centro de Salud (Angular + Flask)**: [Ver repositorio](https://github.com/daniel-alegria-z/ProyectoAngular-Centro-de-Salud)
