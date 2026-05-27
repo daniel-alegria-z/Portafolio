@@ -1,11 +1,11 @@
 # Mi Portafolio de Proyectos
 
-Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más destacados que he desarrollado, la lista se irá actualizando ya que tengo varios proyectos locales que no he concentrado aún aquí.
+Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más destacados que he desarrollado, la lista se irá actualizando ya que tengo varios proyectos locales que no he concentrado aquí aún.
 
 ---
 
 - **Carrito Avengers (Angular + Flask)**: [Ver repositorio](https://github.com/daniel-alegria-z/Carrito-de-compras-Angular-Flask)
-  - Aplicación full-stack de carrito de compras con frontend en Angular y backend en Flask (API REST), persistencia en SQLite, validación server-side de stock y totales (subtotal, IVA y total) y **simulación de una pasarela de pagos** (pagos aprobados/rechazados) para emular un flujo de pago real.
+  - Aplicación full-stack de carrito de compras con frontend en Angular y backend en Flask (API REST), persistencia en SQLite, validación server-side de stock y totales (subtotal, IVA y total).
 
 ---
 
@@ -26,6 +26,11 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 - **Análisis de Calidad de Vinos (Python + Árboles de Decisión)**: [Ver repositorio](https://github.com/daniel-alegria-z/Calidad-de-Vinos)
   - Minería de datos y modelos de decisión para predecir la calidad del vino a partir de sus características químicas.
+
+---
+
+- **EmotionalBETO (Python + BERT + NLP)**: [Ver repositorio](https://github.com/daniel-alegria-z/Analizador-de-Emociones---EmotionalBETO)
+  - Sistema de análisis y clasificación de emociones en textos de habla hispana basado en modelos BERT; incluye detección de sarcasmo, análisis de urgencia, generación de respuestas contextuales y suite completa de tests automatizados con pytest y GitHub Actions.
 
 ---
 
