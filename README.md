@@ -9,6 +9,11 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
+- **EmotionalBETO (Python + BERT + NLP)**: [Ver repositorio](https://github.com/daniel-alegria-z/Analizador-de-Emociones---EmotionalBETO)
+  - Sistema de análisis y clasificación de emociones en textos de habla hispana basado en modelos BERT; incluye detección de sarcasmo, análisis de urgencia, generación de respuestas contextuales y suite completa de tests automatizados con pytest y GitHub Actions.
+
+---
+
 - **Proyecto Angular Centro de Salud (Angular + Flask)**: [Ver repositorio](https://github.com/daniel-alegria-z/ProyectoAngular-Centro-de-Salud)
   - Aplicación web para gestión de pacientes, citas y personal de salud; frontend en Angular y backend en Flask expuesto vía API REST.
 
@@ -29,10 +34,6 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **EmotionalBETO (Python + BERT + NLP)**: [Ver repositorio](https://github.com/daniel-alegria-z/Analizador-de-Emociones---EmotionalBETO)
-  - Sistema de análisis y clasificación de emociones en textos de habla hispana basado en modelos BERT; incluye detección de sarcasmo, análisis de urgencia, generación de respuestas contextuales y suite completa de tests automatizados con pytest y GitHub Actions.
-
----
 
 - **Facturación de Supermercado (PHP)**: [Ver repositorio](https://github.com/alegria666/FacturacionSupermercado-PHP)
   - Aplicación PHP para gestionar la facturación y cálculo de ventas en un supermercado.
@@ -55,4 +56,4 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 ---
 
 
-¡Gracias por visitarlo! :)
+¡Gracias por tu visita! :)
