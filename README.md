@@ -5,11 +5,14 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 ---
 
 ### 🛒 Carrito Avengers
-**Stack:** `Angular` | `Flask` | `SQLite`
+**Stack:** `Angular 20` | `TypeScript` | `Flask` | `SQLite` | `RxJS`
 
-🔹 Full-stack e-commerce  
-🔹 Validación server-side de stock  
-🔹 Cálculo automático de totales con IVA  
+🔹 E-commerce full-stack con temática Marvel  
+🔹 Catálogo de productos con gestión de stock  
+🔹 Validación server-side y cálculo de IVA (19%)  
+🔹 Pasarela de pagos simulada con 90% tasa de éxito  
+🔹 Flujo completo: carrito → checkout → confirmación  
+🔹 API REST robusta con endpoints para productos, validación y pagos  
 [📂 Ver Código →](https://github.com/daniel-alegria-z/Carrito-de-compras-Angular-Flask)
 
 ---
@@ -26,8 +29,15 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **Proyecto Angular Centro de Salud (Angular + Flask)**: [Ver repositorio](https://github.com/daniel-alegria-z/ProyectoAngular-Centro-de-Salud)
-  - Aplicación web para gestión de pacientes, citas y personal de salud; frontend en Angular y backend en Flask expuesto vía API REST.
+### 🏥 Alivium - Centro de Salud
+**Stack:** `Angular` | `TypeScript` | `Flask` | `JWT` | `API REST`
+
+🔹 Plataforma integral para gestión de pacientes y citas médicas  
+🔹 Autenticación segura basada en JSON Web Tokens (JWT)  
+🔹 Frontend modular con Angular y TypeScript  
+🔹 API RESTful robusta con Flask  
+🔹 Gestión de usuarios, sesiones y autorización  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/ProyectoAngular-Centro-de-Salud)
 
 ---
 
