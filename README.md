@@ -14,8 +14,15 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **EmotionalBETO (Python + BERT + NLP)**: [Ver repositorio](https://github.com/daniel-alegria-z/Analizador-de-Emociones---EmotionalBETO)
-  - Sistema de análisis y clasificación de emociones en textos de habla hispana basado en modelos BERT; incluye detección de sarcasmo, análisis de urgencia, generación de respuestas contextuales y suite completa de tests automatizados con pytest y GitHub Actions.
+### 🤖 EmotionalBETO
+**Stack:** `Python` | `BERT` | `NLP`
+
+🔹 Análisis y clasificación de emociones en textos de habla hispana  
+🔹 Detección avanzada de sarcasmo y análisis de urgencia  
+🔹 Generación de respuestas contextuales inteligentes  
+🔹 Suite completa de tests automatizados con pytest  
+🔹 Integración CI/CD con GitHub Actions  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/Analizador-de-Emociones---EmotionalBETO)
 
 ---
 
