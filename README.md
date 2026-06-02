@@ -41,8 +41,16 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **Desarrollo Web de Servicios Aduaneros (Django + PostgreSQL)**: [Ver repositorio](https://github.com/daniel-alegria-z/DesarrolloWeb-Django)
-  - Sistema en Django para la gestión de procesos aduaneros con CRUD organizado en seis apartados principales y control de acceso por roles.
+### 📋 Servicios Aduaneros
+**Stack:** `Django 5.1` | `PostgreSQL` | `Python` | `Gunicorn` | `WhiteNoise`
+
+🔹 Gestión integral de procesos aduaneros (importación, exportación, carga, transporte)  
+🔹 CRUD completo con 6 módulos principales: Usuario, Importación, Exportación, Carga, Transporte, Control  
+🔹 Control de acceso basado en roles de usuario  
+🔹 Auditoría de datos: registro automático de eliminaciones  
+🔹 Inspección y control de mercancías con seguimiento detallado  
+🔹 Base de datos relacional con integridad referencial  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/Aduanas)
 
 ---
 
