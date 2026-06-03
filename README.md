@@ -69,8 +69,17 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **Análisis de Calidad de Vinos (Python + Árboles de Decisión)**: [Ver repositorio](https://github.com/daniel-alegria-z/Calidad-de-Vinos)
-  - Minería de datos y modelos de decisión para predecir la calidad del vino a partir de sus características químicas.
+### 🍷 Análisis de Calidad de Vinos
+**Stack:** `Python` | `Jupyter Notebook` | `Scikit-learn` | `Pandas` | `Machine Learning`
+
+🔹 Predicción de calidad de vinos mediante Árboles de Decisión  
+🔹 Análisis exploratorio de 12 características químicas del vino  
+🔹 Modelo de Machine Learning con 80/20 train-test split  
+🔹 Evaluación con matriz de confusión y métricas de accuracy  
+🔹 Análisis de importancia de características  
+🔹 Visualizaciones interactivas con Matplotlib y Seaborn  
+🔹 Dataset con 1,600+ muestras de vinos catalogadas  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/Calidad-de-Vinos)
 
 ---
 
