@@ -83,9 +83,18 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
+### 🛍️ Facturación de Supermercado
+**Stack:** `PHP` | `HTML` | `CSS` | `XAMPP`
 
-- **Facturación de Supermercado (PHP)**: [Ver repositorio](https://github.com/alegria666/FacturacionSupermercado-PHP)
-  - Aplicación PHP para gestionar la facturación y cálculo de ventas en un supermercado.
+🔹 Sistema integral de gestión de facturación para supermercados  
+🔹 Registro completo de clientes (nombre, cédula, dirección, teléfono, email)  
+🔹 Gestión de productos: código, nombre, cantidad, valor unitario  
+🔹 Cálculo automático de IVA (0-19%) y descuentos (0-90%)  
+🔹 Generación de facturas detalladas con totales y análisis  
+🔹 Identificación de productos de mayor y menor valor  
+🔹 Cálculo de valor promedio de ventas  
+🔹 Interfaz responsiva con diseño moderno (tema oscuro)  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/FacturacionSupermercado-PHP)
 
 ---
 
