@@ -54,8 +54,18 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **Proyecto Aquasoluciones (PHP + MySQL/MariaDB + Docker)**: [Ver repositorio](https://github.com/daniel-alegria-z/Proyecto-Aquasoluciones)
-  - Plataforma web para servicios de agua: páginas informativas, autenticación y registro de usuarios (administradores y supervisores), integración con base de datos y despliegue con Docker.
+### 💧 Aquasoluciones
+**Stack:** `PHP 8.2` | `MySQL/PostreSQL` | `Apache` | `Docker` | `Composer`
+
+🔹 Plataforma web para gestión de servicios de agua  
+🔹 Páginas informativas y catálogo de servicios  
+🔹 Autenticación con control de acceso por roles (Admin y Supervisor)  
+🔹 CRUD para registro de administradores y supervisores  
+🔹 Gestión de base de datos relacional con esquema SQL  
+🔹 Estructura MVC: separación clara entre vistas, lógica y assets  
+🔹 Frontend responsivo con HTML, CSS y JavaScript  
+🔹 Despliegue containerizado con Docker (PHP 8.2 + Apache)  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/Proyecto-Aquasoluciones)
 
 ---
 
