@@ -1,4 +1,4 @@
-# Mi Portafolio de Proyectos
+# Portafolio de Proyectos
 
 Bienvenido a mi colección de proyectos de ingeniería de software. Aquí presento soluciones de **diseño robusto**, **arquitectura escalable** y **tecnologías modernas** que demuestran mis capacidades en:
 
