@@ -127,8 +127,18 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **Compresor de Texto (Python + JSON)**: [Ver repositorio](https://github.com/alegria666/CompresorTxt)
-  - Herramienta con interfaz gráfica para compresión/descompresión de texto usando un mapa de palabras persistido en JSON.
+### 📦 Compresor de Texto
+**Stack:** `Python 3.13` | `Tkinter` | `JSON` | `GUI`
+
+🔹 Herramienta para compresión/descompresión de archivos de texto (.txt)  
+🔹 Banco de palabras optimizado con 800+ palabras mapeadas  
+🔹 Algoritmo de reemplazo: palabras → caracteres especiales simples  
+🔹 Persistencia de mapas en JSON para interoperabilidad  
+🔹 Interfaz gráfica Tkinter con carga y guardado de archivos  
+🔹 Operaciones reversibles: comprimir ↔ descomprimir  
+🔹 Generación dinámica de mapas de palabras (bancoPalabras.py)  
+🔹 Reducción significativa de tamaño de archivo  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/CompresorTxt)
 
 ---
 
