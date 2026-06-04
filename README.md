@@ -98,8 +98,17 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **Gestión Inmobiliaria (Python + Estructuras de Datos)**: [Ver repositorio](https://github.com/alegria666/Inmobiliaria-Arboles)
-  - Aplicación gráfica en Python que organiza propiedades usando Árboles Binarios de Búsqueda y árboles balanceados para búsquedas ágiles.
+### 🏠 Gestión Inmobiliaria
+**Stack:** `Python` | `PyQt6` | `Estructuras de Datos` | `GUI`
+
+🔹 Aplicación gráfica para gestionar propiedades en venta y arriendo  
+🔹 Organización eficiente con Árboles Binarios de Búsqueda (ABB)  
+🔹 Operaciones de registro, búsqueda, consulta y eliminación de propiedades  
+🔹 Gestión de datos: dirección, valor, habitaciones, baños, garaje  
+🔹 Recorridos de árbol: inorden, preorden y postorden  
+🔹 Interfaz PyQt6 moderna con iconos y estilos personalizados  
+🔹 Validaciones de datos y manejo de excepciones  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/Inmobiliaria-Arboles)
 
 ---
 
