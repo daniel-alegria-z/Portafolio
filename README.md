@@ -1,6 +1,16 @@
 # Mi Portafolio de Proyectos
 
-Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más destacados que he desarrollado, la lista se irá actualizando ya que tengo varios proyectos locales que no he concentrado aquí aún.
+Bienvenido a mi colección de proyectos de ingeniería de software. Aquí presento soluciones de **diseño robusto**, **arquitectura escalable** y **tecnologías modernas** que demuestran mis capacidades en:
+
+- 🎯 **Desarrollo Full-Stack** (Frontend & Backend)
+- 🔐 **Seguridad e Integridad de Datos**
+- 📊 **Machine Learning & Data Science**
+- 🏗️ **Arquitectura de Software**
+- 🐳 **DevOps & Cloud Solutions**
+
+> ℹ️ Esta colección crece continuamente. Tengo varios proyectos en desarrollo que se integrarán próximamente.
+
+**Selecciona cualquier proyecto para explorar el código, documentación y detalles técnicos.**
 
 ---
 
