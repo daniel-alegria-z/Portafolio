@@ -112,8 +112,18 @@ Bienvenido a mi portafolio. Aquí encontrarás una lista de los proyectos más d
 
 ---
 
-- **Gestión de Lavautos (Python + Colas)**: [Ver repositorio](https://github.com/alegria666/Lavautos-Colas)
-  - Aplicación gráfica que modela la atención por orden de llegada mediante estructuras de colas, organizando vehículos según su tipo.
+### 🚗 Lavautos - Gestión de Colas
+**Stack:** `Python` | `PyQt6` | `Estructuras de Datos` | `GUI`
+
+🔹 Sistema de gestión de colas para lavautos con atención FIFO  
+🔹 Organización de vehículos por tipo: Carros, Motos, Camiones  
+🔹 Implementación de Colas con Lista Simplemente Enlazada  
+🔹 Operaciones: encolar, desencolar, consultar frente y longitud  
+🔹 Interfaz PyQt6 interactiva con iconos y gradientes visuales  
+🔹 Visualización en tiempo real del estado de cada cola  
+🔹 Notificación automática del turno al ingresar vehículos  
+🔹 Sistema de consultas y estadísticas por tipo de vehículo  
+[📂 Ver Código →](https://github.com/daniel-alegria-z/Lavautos-Colas)
 
 ---
 
