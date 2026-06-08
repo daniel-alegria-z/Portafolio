@@ -8,7 +8,7 @@ Bienvenido a mi colección de proyectos de ingeniería de software. Aquí presen
 - 🏗️ **Arquitectura de Software**
 - 🐳 **DevOps & Cloud Solutions**
 
-> ℹ️ Esta colección crece continuamente. Tengo varios proyectos en desarrollo que se integrarán próximamente.
+> ℹ️ Esta colección crece continuamente, tengo varios proyectos en desarrollo que se integrarán próximamente.
 
 **Selecciona cualquier proyecto para explorar el código, documentación y detalles técnicos.**
 
