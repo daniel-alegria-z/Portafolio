@@ -27,7 +27,7 @@ Bienvenido a mi colección de proyectos de ingeniería de software. Aquí presen
 
 ---
 
-### 🤖 EmotionalBETO
+### 🤖 EmotionalBETO - Sistema inteligente
 **Stack:** `Python` | `BERT` | `NLP`
 
 🔹 Análisis y clasificación de emociones en textos de habla hispana  
